@@ -3,7 +3,7 @@
 package dlgs
 
 import (
-//"github.com/gopherjs/gopherjs/js"
+	"github.com/gopherjs/gopherjs/js"
 )
 
 // File displays a file dialog, returning the selected file/directory and a bool for success.

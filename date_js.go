@@ -3,7 +3,8 @@
 package dlgs
 
 import (
-//"github.com/gopherjs/gopherjs/js"
+	"github.com/gopherjs/gopherjs/js"
+	"time"
 )
 
 // Date displays a calendar dialog, returning the date and a bool for success.
